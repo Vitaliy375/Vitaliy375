@@ -17,11 +17,11 @@
 - ⚡ Забавный факт: **Электрик** - (*сущ*.) единственный кому может стукнуть **220**!
 
 <div id="sochial" align="center">
-  <a href="telegram-url">
-   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"
+  <a href="https://t.me/Vitaliy375">
+   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
    </a>
-   <a href="youtube-url">
-   <img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"
+   <a href="https://www.youtube.com/@dostigator3300">
+   <img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube"/>
    </a>
 </div>
 
