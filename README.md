@@ -51,7 +51,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitaliy375&show_icons=true)  
 
 
-<img src="https://camo.githubusercontent.com/1aa9499f8300004614f225bdc09e3680e44ca7e96d774c73edda5a48846f908d/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f333637302f333637303134372e706e67" width="40" height="40" alt="Youtube" data-canonical-src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" style="max-width: 100%;">
+
 
 
 
