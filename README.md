@@ -10,7 +10,7 @@
 
 
 <div id="center" align="center">
-    Мои навыки в программировании:</br>  <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40" style="max-width: 100%;">  <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40" style="max-width: 100%;">  <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40" style="max-width: 100%;">  <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40" style="max-width: 100%;">
+    Мои навыки:</br>  <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40" style="max-width: 100%;">  <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40" style="max-width: 100%;">  <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40" style="max-width: 100%;">  <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40" style="max-width: 100%;">  <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40" style="max-width: 100%;">   <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40" style="max-width: 100%;">
 </div></br>
  
 
@@ -27,8 +27,8 @@
 - 💬 Спроси меня о любой проблеме в жизни и я постараюсь помочь или найти человека который поможет тебе.
   
 - ⚡ Забавный факт: **Электрик** - (*сущ*.) единственный кому может стукнуть **220**!
-
-</br>
+ 
+- 📫 Как связаться со мной:
 <div id="sochial" align="center">
   <a href="https://t.me/Vitaliy375">
    <img src="https://camo.githubusercontent.com/6badd5effe52bef2c64557fa8883104fd1fd80065c2feda39fd2b9ac4a858bae/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323131312f323131313634362e706e67" width="40" height="40" alt="telegram group" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" style="max-width: 100%;">
@@ -41,14 +41,18 @@
    </a>
 </div>
 </br>
+</br>
+</br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='60'>](https://github.com/Vitaliy375)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCQfj3iEz7d93tdi11KgFhuQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/Vitaliy375)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Vitaliy375)](https://github.com/ryo-ma/github-profile-trophy)
+GitHub статистика:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaliy375)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitaliy375&show_icons=true)  
+
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/791eeada5d42d961676d5c5498d8a4cd4ff2edaec4af73723161cc8c1c980aff/68747470733a2f2f63686565736974733435362d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6368656573697473343536266c61796f75743d636f6d7061637426636172645f77696474683d323735267468656d653d6769746875625f6461726b266c616e67735f636f756e743d313026686964653d632c6d65736f6e2c6d616b6566696c652c6d34266578636c7564655f7265706f3d6769746875622d726561646d652d73746174732c4269744a616e69746f722c6769746875622d61637469766974792d726561646d652c66616e63792d6769742c6368616c6c656e6765426f74"><img src="https://camo.githubusercontent.com/791eeada5d42d961676d5c5498d8a4cd4ff2edaec4af73723161cc8c1c980aff/68747470733a2f2f63686565736974733435362d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6368656573697473343536266c61796f75743d636f6d7061637426636172645f77696474683d323735267468656d653d6769746875625f6461726b266c616e67735f636f756e743d313026686964653d632c6d65736f6e2c6d616b6566696c652c6d34266578636c7564655f7265706f3d6769746875622d726561646d652d73746174732c4269744a616e69746f722c6769746875622d61637469766974792d726561646d652c66616e63792d6769742c6368616c6c656e6765426f74" alt="Лучшие языки Cheesits456" align="right" width="295" data-canonical-src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&amp;layout=compact&amp;card_width=275&amp;theme=github_dark&amp;langs_count=10&amp;hide=c,meson,makefile,m4&amp;exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" style="max-width: 100%;"></a>
+
+<img height="195px" align="right" alt="webDev's Github Languages" src="https://camo.githubusercontent.com/062349955722efe39f60e05ee40a2680540b3b4dfbf44b390ddc8854dcc09468/68747470733a2f2f6769746875622d726561646d652d73746174732d7369676d612d666976652e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d46696c696d6f6e6f76416c65786579266c61796f75743d636f6d70616374267468656d653d766973696f6e2d667269656e646c792d6461726b" data-canonical-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&amp;layout=compact&amp;theme=vision-friendly-dark" style="max-width: 100%;">
 
 
 
