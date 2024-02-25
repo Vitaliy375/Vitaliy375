@@ -37,7 +37,7 @@
    <img src="https://camo.githubusercontent.com/1aa9499f8300004614f225bdc09e3680e44ca7e96d774c73edda5a48846f908d/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f333637302f333637303134372e706e67" width="40" height="40" alt="Youtube" data-canonical-src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" style="max-width: 100%;">
    </a>
     <a href="linkedIn - url">
-   <img src="https://img.shields.io/badge/linkedIn-blue?style=for-the-badge&logo=linkedIn&logoColor=white" alt="linkedIn"/>
+   <img src="https://camo.githubusercontent.com/c457924542427ab09c6897a501aa47b873e080ee92c167a256923fc2bd0e4c41/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f323530342f323530343739392e706e67" width="40" height="40" alt="linkedin" data-canonical-src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" style="max-width: 100%;">
    </a>
 </div>
 </br>
