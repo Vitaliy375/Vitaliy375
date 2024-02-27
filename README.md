@@ -3,8 +3,9 @@
         <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif?cid=хх82a1493bss8a786y8cw32j4645p1czu50s23c9n4ae4f839k&ep=v1_gifs_trending&rid=giphy.gif&ct=g"><br>
         Меня зовут Виталий. </h1>
     <h3>Я начинающий веб разработчик из города Сочи.</h3>
+    <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"><br>
     <p>Я изучаю программирование, что бы хорошо понимать мир в котором я живу)) <br>
- Я развиваюсь во всех направлениях жизни, а это одна из граней моего развития.</p>
+       и развиваюсь во всех направлениях жизни, а это одна из граней.</p>
 </div>
 <br><br>
 
@@ -13,6 +14,7 @@
 
 <div id="center" align="center">
     Мои навыки:</br> 
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80" height="80" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"><br></br>
     <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40" height="40" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">  
     <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40" height="40" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> 
     <img src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?" width="40" height="40" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">  
@@ -50,7 +52,7 @@
 </div>
 </br>
 </br>
-</br>
+
 
 GitHub статистика:
 
