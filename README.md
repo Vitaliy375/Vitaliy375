@@ -32,7 +32,10 @@
 - 🌱 Я сейчас учусь работать с программами и приложениями которые упрощают жизнь.
 
 - 👯 Один из призеров в хакатоне:
-![диплом](https://github.com/Vitaliy375/Vitaliy375/assets/90692855/5e1fd6ca-5bb2-40cf-913b-b03798ec9ef7)
+  <div align="center">
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://github.com/Vitaliy375/Vitaliy375/assets/90692855/5e1fd6ca-5bb2-40cf-913b-b03798ec9ef7)" width="300" height="600"/>
+</div>
+![диплом]()
 
   
   
