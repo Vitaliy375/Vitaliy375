@@ -33,11 +33,8 @@
 
 - 👯 Один из призеров в хакатоне:
   <div align="center">
-  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://github.com/Vitaliy375/Vitaliy375/assets/90692855/5e1fd6ca-5bb2-40cf-913b-b03798ec9ef7)" width="300" height="600"/>
-</div>
-![диплом]()
-
-  
+      <img src="https://github.com/Vitaliy375/Vitaliy375/assets/90692855/5e1fd6ca-5bb2-40cf-913b-b03798ec9ef7" width="300" height="420"/>
+  </div>  
   
 - 🤔 Я ищу помощь с поиском работы в сфере программирования.
   
@@ -61,16 +58,16 @@
 </br>
 
 
-GitHub статистика:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitaliy375)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vitaliy375&show_icons=true)  
 
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/791eeada5d42d961676d5c5498d8a4cd4ff2edaec4af73723161cc8c1c980aff/68747470733a2f2f63686565736974733435362d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6368656573697473343536266c61796f75743d636f6d7061637426636172645f77696474683d323735267468656d653d6769746875625f6461726b266c616e67735f636f756e743d313026686964653d632c6d65736f6e2c6d616b6566696c652c6d34266578636c7564655f7265706f3d6769746875622d726561646d652d73746174732c4269744a616e69746f722c6769746875622d61637469766974792d726561646d652c66616e63792d6769742c6368616c6c656e6765426f74"><img src="https://camo.githubusercontent.com/791eeada5d42d961676d5c5498d8a4cd4ff2edaec4af73723161cc8c1c980aff/68747470733a2f2f63686565736974733435362d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6368656573697473343536266c61796f75743d636f6d7061637426636172645f77696474683d323735267468656d653d6769746875625f6461726b266c616e67735f636f756e743d313026686964653d632c6d65736f6e2c6d616b6566696c652c6d34266578636c7564655f7265706f3d6769746875622d726561646d652d73746174732c4269744a616e69746f722c6769746875622d61637469766974792d726561646d652c66616e63792d6769742c6368616c6c656e6765426f74" alt="Лучшие языки Cheesits456" align="right" width="295" data-canonical-src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&amp;layout=compact&amp;card_width=275&amp;theme=github_dark&amp;langs_count=10&amp;hide=c,meson,makefile,m4&amp;exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" style="max-width: 100%;"></a>
-
-<img height="195px" align="right" alt="webDev's Github Languages" src="https://camo.githubusercontent.com/062349955722efe39f60e05ee40a2680540b3b4dfbf44b390ddc8854dcc09468/68747470733a2f2f6769746875622d726561646d652d73746174732d7369676d612d666976652e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d46696c696d6f6e6f76416c65786579266c61796f75743d636f6d70616374267468656d653d766973696f6e2d667269656e646c792d6461726b" data-canonical-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FilimonovAlexey&amp;layout=compact&amp;theme=vision-friendly-dark" style="max-width: 100%;">
-
+<div id="stats" align="center"> GitHub статистика:
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitaliy375&theme=blue_green">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vitaliy375&theme=blue_green">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vitaliy375&theme=blue_green">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vitaliy375&theme=blue_green">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vitaliy375&theme=blue_green">
+</div>
 
 
 
