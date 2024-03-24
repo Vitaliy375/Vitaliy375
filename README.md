@@ -55,13 +55,17 @@
 </div>
 </br>
 </br>
-
-<div id="stats" align="center"> GitHub статистика:
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitaliy375&theme=blue_green">
+<h3 align="center">GitHub статистика:</h3>
+<!--<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitaliy375&theme=blue_green"> -->
+<div id="stats" align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vitaliy375&theme=blue_green">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vitaliy375&theme=blue_green">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vitaliy375&theme=blue_green">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vitaliy375&theme=blue_green">
+</div>
+
+<div id="piny" align="center">
+    
 </div>
 
 
