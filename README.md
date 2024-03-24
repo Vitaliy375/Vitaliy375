@@ -17,19 +17,18 @@
 <div id="center" align="center">
     Мои навыки:</br> 
     <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="80" height="80" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"/><br></br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40" height="40" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40" height="40" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"/>
-
-<img src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?" width="40" height="40" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-<img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDkwNjkzNjMsIm5iZiI6MTcwOTA2OTA2MywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjI3VDIxMjQyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcwYTlmYWY3MGU4YjQyZmUwY2JiY2Y4YmRlOTk0YmJlMGEzZmM0MDYwZDYxZDQ5NThjMDA2M2JjMDIwYjEwYzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.E_6zfldN7pOzaE7heypWU7TqjKVoiohwOjE0lSa7g2I" width="40" height="40" display: inline-block; data-target="animated-image.originalImage"/><img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="70" height="40"; style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"/><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="40" height="40" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="40" height="40" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40" height="40" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"/>
+    <img src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" width="40" height="40" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"/>
+    <img src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="40" height="40" display: inline-block;" data-target="animated-image.originalImage"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="70" height="40"; style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"/>
+    <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="40" height="40" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"/>
 </div></br>
  
 
 - 🔭 Я люблю исследовать и узнавать что-то новое.
   
-- 🌱 Я сейчас учусь работать с программами и приложениями которые упрощают жизнь.
+- 🌱 Я сейчас учусь работать в команде.
 
 - 👯 Один из призеров в хакатоне:
   <div align="center">
